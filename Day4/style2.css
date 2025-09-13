@@ -1,0 +1,29 @@
+ol {
+    font-size: 30px;
+    line-height: 50px;
+    margin-left: 200px;
+}
+
+.part1 {
+    background-color: rgb(241, 179, 179);
+    display: inline;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px solid black;
+    width: 300px;
+    height: 500px;
+}
+
+.part2 {
+    background-color: rgb(241, 179, 179);
+    display: inline;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px solid black;
+    width: 300px;
+    height: 500px;
+    
+}
+h3{
+    margin-left: 200px;
+}
